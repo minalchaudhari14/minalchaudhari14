@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Minal Chaudhari.I'm pursuing Master Computer Application from R.C Patel Edu Trusts Institute Of Management Research And Development,shirpur.I'm Currently looking for web deveploment job.My hobby learning new technology 👩‍💻. 
-Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3,php,& java. Build reusable code for future use while optimising web performance.
+Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3, Javascript,PHP & Java. Build reusable code for future use while optimising web performance.
 
 ### Find me around the web 🌎:
 -Linkedin Profile url
     https://www.linkedin.com/in/minal-chaudhari-mc1496/
 
--Glimpse of my demo website 
+### Glimpse of my demo website😎:
 
     1) Covid-19 Tracker-
         http://covid-19countryupdate.in/
@@ -33,7 +33,7 @@ Ability to create innovative, creative, & interactive web designs to boost custo
         https://minalchaudhari14.github.io/Project/
         
         
-  ### 📫 How to reach me: 
+  ###  How to reach me 📫: 
   Email - chaudhariminal1496@gmail.com
     
     
