@@ -1,4 +1,4 @@
-### Hi,I'm Minal 👩‍💻
+### Hi,I'm Minal Chaudhari 👩‍💻
 
 <!--
 **minalchaudhari14/minalchaudhari14** is a ✨_special_✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Minal Chaudhari.I'm pursuing Master Computer Application from R.C Patel Edu Trusts Institute Of Management Research And Development,shirpur.I'm Currently looking for web deveploment job.My hobby learning new technology 👩‍💻. 
+I'm pursuing Master Computer Application from R.C Patel Edu Trusts Institute Of Management Research And Development,shirpur.I'm Currently looking for web deveploment job.My hobby learning new technology 👩‍💻. 
 Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3, Javascript,PHP & Java. Build reusable code for future use while optimising web performance.
 
 ### Find me around the web 🌎:
