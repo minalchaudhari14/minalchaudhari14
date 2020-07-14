@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm pursuing Master of Computer Application from R.C Patel Edu Trusts Institute Of Management Research And Development, shirpur.I'm Currently looking for web developer job.My hobby learning new technology 👩‍💻. 
+I'm pursuing Master of Computer Application 🎓 from R.C Patel Edu Trusts Institute Of Management Research And Development, shirpur.I'm Currently looking for web developer job 💻.My hobby learning new technology 👩‍💻. 
 Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3, Javascript, PHP & Java. Build reusable code for future use while optimising web performance.
 
 ### Find me around the web 🌎:
@@ -23,13 +23,13 @@ Ability to create innovative, creative, & interactive web designs to boost custo
 
 ### Glimpse of my demo website😎:
 
-    1) Covid-19 Tracker-
+    1) Covid-19 Tracker 📱-
         http://covid-19countryupdate.in/
         
-    2) Music Player
+    2) Music Player 🎼-
         https://minalchaudhari14.github.io/Music_App/
         
-    3) Running Car Animation 
+    3) Running Car Animation 🚕-
         https://minalchaudhari14.github.io/Project/
         
         
