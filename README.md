@@ -22,7 +22,6 @@ Ability to create innovative, creative, & interactive web designs to boost custo
     https://www.linkedin.com/in/minal-chaudhari-mc1496/
 
 ### Glimpse of my demo website😎:
-
     1) Covid-19 Tracker 📱-
         http://covid-19countryupdate.in/
         
