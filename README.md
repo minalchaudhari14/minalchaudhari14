@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm pursuing Master of Computer Application 🎓 from R.C Patel Edu Trusts Institute Of Management Research And Development, shirpur.I'm Currently looking for Software developer job 💻.My hobby learning new technology 👩‍💻. 
+I have Completed Master of Computer Application 🎓 from R.C Patel Edu Trusts Institute Of Management Research And Development, shirpur.I'm Currently looking for Software developer job 💻.My hobby learning new technology 👩‍💻. 
 Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3, Javascript, PHP & Java. Build reusable code for future use while optimising web performance.
 
 ### Find me around the web 🌎:
