@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently working in TCS and also contributing in open source project. I am really enthusiastic about working in web development technology and want togrow in this field💻.My hobby learning new technology 👩‍💻. Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3, Javascript, PHP & Java. Build reusable code for future use while optimising web performance.
+I am currently working in TCS and also contributing in open source project. I am really enthusiastic about working in web development technology and want to grow in this field💻.My hobby learning new technology 👩‍💻. Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS 3, Javascript, PHP & Java. Build reusable code for future use while optimising web performance.
 
 ### Find me around the web 🌎:
 -Linkedin Profile url
